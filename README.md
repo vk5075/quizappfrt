@@ -1,6 +1,6 @@
 #Project repository URL :https://github.com/vk5075/quizappfrt.git
-gitHub project URL: https://vk5075.github.io/quizappfrt/
-
+#gitHub project URL: https://vk5075.github.io/quizappfrt/
+#Demo URL :https://youtu.be/toA8HWDLX6w 
 
 Azure URL : https://my011.z29.web.core.windows.net/
 
@@ -21,6 +21,7 @@ AZURE TECHNOLOGY:
 IDE USED  : Vs Code
 
 Steps followed While Deploying:
+
 1.Firstly but the complete project using a studio code then tested it on the live server extensions.
 
 2. After that have instaled the gt on my system.
