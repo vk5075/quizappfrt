@@ -16,6 +16,11 @@ A quiz application is a type of app that allows users to participate in quizzes 
 
 The purpose of a quiz app is to test your knowledge and challenge you to learn new things. It can be a fun and interactive way to engage with educational content or simply entertain yourself. Some quiz apps also offer features like leaderboards, where you can compete with others and see who has the highest scores.
 
+Use Technology:
+1.HTML
+2.CSS
+3. JavaScriot
+
 AZURE TECHNOLOGY:
 1. Containers
 2. Statics Web Apps
