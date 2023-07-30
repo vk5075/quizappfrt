@@ -10,11 +10,17 @@ Azure URL : https://my011.z29.web.core.windows.net/
 PROJECT : QUIZ APPLICATION
 
 PROBLEM STATEMENT:Inefficient Learning: Many existing quiz apps focus solely on testing knowledge rather than promoting effective learning. This leads to a lack of engagement and limited retention of information among users.
+It is used to increase the knowledge.
+
 
 DESCRIPTION:
 A quiz application is a type of app that allows users to participate in quizzes or tests on various topics. It is like a game where you answer questions and try to score points or achieve high scores. The app presents questions to you, and you choose the correct answer from multiple choices. It can cover a wide range of subjects like science, history, sports, or even pop culture.
 
 The purpose of a quiz app is to test your knowledge and challenge you to learn new things. It can be a fun and interactive way to engage with educational content or simply entertain yourself. Some quiz apps also offer features like leaderboards, where you can compete with others and see who has the highest scores.
+
+I have used a technology like HTML, CSS and JAVASCRIPT to build the this project.
+This project help enhance the thinking knowledge of the students.
+
 
 Use Technology:
 1.HTML
